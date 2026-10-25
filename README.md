@@ -26,4 +26,4 @@ pnpm dev
 
 Licensed under the MIT license, Copyright © trueberryless.
 
-See [LICENSE](https://github.com/trueberryless-org/starlight-subtle-top-level-items/blob/main/LICENSE) for more information.
+See [LICENSE](https://github.com/trueberryless/starlight-subtle-top-level-items/blob/main/LICENSE) for more information.

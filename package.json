@@ -3,11 +3,11 @@
   "private": true,
   "homepage": "https://starlight-subtle-top-level-items.netlify.app/",
   "bugs": {
-    "url": "https://github.com/trueberryless-org/starlight-subtle-top-level-items/issues"
+    "url": "https://github.com/trueberryless/starlight-subtle-top-level-items/issues"
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/trueberryless-org/starlight-subtle-top-level-items.git"
+    "url": "https://github.com/trueberryless/starlight-subtle-top-level-items.git"
   },
   "license": "MIT",
   "author": "trueberryless <trueberryless@gmail.com> (https://felixs.dev)",
