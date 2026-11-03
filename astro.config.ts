@@ -53,7 +53,7 @@ export default defineConfig({
       routeMiddleware: "./src/routeData.ts",
       social: [
         {
-          href: "https://github.com/trueberryless-org/starlight-subtle-top-level-items",
+          href: "https://github.com/trueberryless/starlight-subtle-top-level-items",
           icon: "github",
           label: "GitHub",
         },
